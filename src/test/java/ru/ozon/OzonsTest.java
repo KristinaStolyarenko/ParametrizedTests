@@ -15,7 +15,7 @@ import java.util.stream.Stream;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class OzonsTest {
+public class OzonsTest extends TestBase {
 
     static final String URL = "https://www.ozon.ru/";
 
